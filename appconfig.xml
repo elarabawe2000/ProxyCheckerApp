@@ -1,0 +1,10 @@
+<ProxyCheckerConfig>
+  <ProxySources>
+    <Source>https://free-proxy-list.net</Source>
+    <Source>https://www.proxyscrape.com</Source>
+  </ProxySources>
+  <Settings>
+    <DefaultThreadCount>20</DefaultThreadCount>
+    <TimeoutSeconds>10</TimeoutSeconds>
+  </Settings>
+</ProxyCheckerConfig>
